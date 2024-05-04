@@ -23,6 +23,17 @@ CHARACTERISTICS OF RISC:
 
 •	Less   complex .
 
+
+RECENT DEVELOPMENT IN RISC
+
+1.	Microarchitecture Innovations: RISC processor designs have seen advancements in microarchitecture aimed at improving instruction throughput, latency, and overall performance. Techniques such as branch prediction, out-of-order execution, speculative execution, and deeper pipelines are being refined to extract more parallelism and optimize instruction execution.
+ 
+2.	Multi-Core and Many-Core Designs: With the growing demand for parallel computing, RISC architectures are increasingly adopting multi-core and many-core designs. These designs leverage multiple processing cores on a single chip to enhance overall performance and scalability across a wide range of applications, from consumer electronics to data centers.
+
+3.	Advanced Vector Processing: RISC architectures are incorporating advanced vector processing units to accelerate tasks like multimedia processing, scientific computing, and machine learning. SIMD (Single Instruction, Multiple Data) instructions enable parallel execution of operations on multiple data elements, enhancing performance for computationally intensive workloads.
+   
+4.	Heterogeneous Computing: RISC architectures are embracing heterogeneous computing models by integrating different types of processing units (e.g., CPU cores, GPU cores, accelerators) into a unified architecture. This approach enables efficient execution of diverse workloads by leveraging the strengths of each processing unit while maximizing energy efficiency and performance.
+
 ADVANTAGES:
 
 •	Faster execution.
@@ -61,6 +72,41 @@ CISC (Complex Instruction Set Architecture)
 •	Instruction is not executed in a single clock cycle.
 
 •	Complex instruction set.
+
+
+RECENT DEVELOPMENT IN  CISC ARCHITECTURE
+1.	Microarchitecture Enhancements: CISC processor designs continue to evolve with advancements in microarchitecture, including deeper pipelines, improved branch prediction, larger caches, and more efficient execution units. These enhancements aim to increase instruction throughput and overall performance.
+
+
+2.	Power Efficiency: Manufacturers are placing greater emphasis on improving power efficiency in CISC processors, especially with the growing demand for mobile and battery-powered devices. Techniques such as dynamic voltage and frequency scaling (DVFS), power gating, and advanced sleep states help to reduce power consumption during idle periods.
+
+	
+3.	Security Features: With the rise in cyber security threats, CISC processors are integrating more sophisticated security features to protect against various types of attacks, including side-channel attacks, speculative execution vulnerabilities, and malware. Hardware-based security features such as secure enclaves, memory encryption, and trusted execution environments are becoming increasingly common.
+
+	
+4.	Vector Processing: To accelerate tasks like multimedia processing, machine learning, and scientific computing, CISC processors are incorporating advanced vector processing units. These units support SIMD (Single Instruction, Multiple Data) instructions, enabling parallel execution of operations on multiple data elements simultaneously.	
+
+
+COMPANY   WHICH ARE  USING  CISC ARCHITECTURE
+
+
+1.Intel Corporation: Intel is one of the leading companies in the development of CISC architectures. Their x86 architecture, used in products like Intel Core processors, Xeon processors for servers, and Atom processors for low-power devices, is one of the most widely deployed CISC architectures in the world.
+
+
+2.Advanced Micro Devices (AMD): AMD is another major player in the CISC space. Their AMD64 architecture, an extension of the x86 architecture with 64-bit support, is used in AMD Ryzen processors for consumer desktops and laptops, AMD EPYC processors for servers, and AMD Athlon processors for entry-level computing.
+
+
+3.IBM: While IBM has diversified its processor offerings, they have historically developed CISC architectures such as the IBM POWER architecture. IBM's POWER processors are used in high-performance computing (HPC), enterprise servers, and mission-critical applications.
+
+
+4.Oracle: Oracle develops SPARC processors based on the SPARC (Scalable Processor Architecture) instruction set architecture, which is another example of a CISC architecture. SPARC processors are commonly used in Oracle's enterprise servers and engineered systems.
+
+
+5.Samsung Electronics: Samsung has also entered the CISC processor market with its Exynos processors. While Exynos processors are primarily used in Samsung's own mobile devices, Samsung also offers server-grade Exynos processors for data center applications.
+
+
+
+
 
    ADVANTAGE:
    
